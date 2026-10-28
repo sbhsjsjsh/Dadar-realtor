@@ -1,0 +1,6 @@
+{
+  "name": "Dadar Realtor",
+  "description": "Find prime open land and plots for sale in Dadar East, Mumbai. Clear titles, high appreciation, and expert real estate guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
